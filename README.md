@@ -1,4 +1,3 @@
----
 # **Omnifood: Your AI-Powered Personalized Diet Companion**
 
 ## **Project Overview**
@@ -18,4 +17,3 @@ Omnifood is an innovative food subscription service powered by artificial intell
 - **HTML** for the website structure.  
 - **CSS** for styling, including responsive designs to ensure compatibility with various devices.  
 - **JavaScript** for interactive features like navigation, smooth scrolling, and meal approval systems.
----
